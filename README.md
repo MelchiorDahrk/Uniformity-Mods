@@ -6,8 +6,7 @@ The goal of this project is to make a list of all of these incongruities and lis
 
 For example, Savants will tell you this about Ald Redaynia: 
 
-  Quote
-"The rugged coast and islands of northern and eastern Vvardenfell are called Azura's Coast. The region is rocky, infertile, and largely uninhabited, except for the outpost at Molag Mar, the Telvanni settlements at Sadrith Mora, the wizard towers at Tel Aruhn, Tel Mora, and Tel Branora, and Ahemmusa camp and the remote fishing villages of Ald Redaynia and Dagon Fel on the north coast. There are no roads; most travel is by boat. Despite the rocky terrain, a variety of plants thrive on the regular rainfall."
+> "The rugged coast and islands of northern and eastern Vvardenfell are called Azura's Coast. The region is rocky, infertile, and largely uninhabited, except for the outpost at Molag Mar, the Telvanni settlements at Sadrith Mora, the wizard towers at Tel Aruhn, Tel Mora, and Tel Branora, and Ahemmusa camp and the remote fishing villages of Ald Redaynia and Dagon Fel on the north coast. There are no roads; most travel is by boat. Despite the rocky terrain, a variety of plants thrive on the regular rainfall."
 
 We know from gameplay that the only thing at Ald Redaynia is the ruined Wizard Tower. However, there are multiple mods which aim to address this inconsistency between dialogue and gameplay.
 
